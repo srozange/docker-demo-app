@@ -1,4 +1,4 @@
-FROM tomcat:8-jdk11-openjdk
+FROM tomcat:10-jdk11-openjdk
 
 USER root
 
